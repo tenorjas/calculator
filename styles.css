@@ -1,0 +1,89 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-collapse: collapse;
+}
+
+.row_1 {
+  display: flex;
+  flex-direction: row;
+  border-color: #5bd676;
+  border-collapse: collapse;
+}
+
+#clear {
+  font-size: 18pt;
+  width: 70px;
+  height: 70px;
+  background-color: #34a73f;
+  color: white;
+  border-color: #5bd676;
+  border-collapse: collapse;
+}
+
+#clear:hover {
+  background-color: #5bd676;
+}
+
+#display {
+  font-size: 18pt;
+  width: 205px;
+  height: 64px;
+  background-color: #34a73f;
+  color: white;
+  border-color: #5bd676;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.number {
+  font-size: 18pt;
+  width: 70px;
+  height: 70px;
+  background-color: #34a73f;
+  color: white;
+  border-color: #5bd676;
+  border-collapse: collapse;
+}
+
+.operator {
+  font-size: 18pt;
+  width: 70px;
+  height: 70px;
+  color: #16531f;
+  background-color: #5bd676;
+  border-color: #5bd676;
+  border-collapse: collapse;
+}
+
+.operator:hover {
+  color: white;
+}
+
+#decimal {
+  font-size: 18pt;
+  width: 70px;
+  height: 70px;
+  background-color: #34a73f;
+  color: white;
+  border-color: #5bd676;
+  border-collapse: collapse;
+}
+
+#equals {
+  font-size: 18pt;
+  width: 70px;
+  height: 70px;
+  background-color: #34a73f;
+  color: white;
+  border-color: #5bd676;
+  border-collapse: collapse;
+}
+
+#equals:hover {
+  background-color: #5bd676;
+}
