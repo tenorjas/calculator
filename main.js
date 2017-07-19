@@ -1,5 +1,5 @@
 function clearScreen() {}
 
 function clickDigit(digit) {
-  alert(digit);
+  let screenDisplay = document.getElementById("display");
 }
