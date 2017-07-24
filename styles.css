@@ -27,6 +27,7 @@
 }
 
 #display {
+  text-align: right;
   font-size: 18pt;
   width: 205px;
   height: 64px;
